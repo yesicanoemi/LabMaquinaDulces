@@ -7,7 +7,7 @@ package mdulces;
 
 /**
  *
- * @author EST1659109
+ * @author yesica
  */
 public interface Estado {
      void cambioEstado();
